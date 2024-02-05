@@ -1,0 +1,43 @@
+* {
+    background-color: rgb(90, 202, 202);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(143, 123, 73);
+    background-color: black;
+}
+
+#testid {
+    color: rgb(92, 57, 57);
+    font-size: 35px;
+    margin: 2.5%;
+}
+
+#divid {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blueviolet;
+    margin: 75px;
+    background-color: aquamarine;
+
+}
+
+#skillspid {
+    font-family: cursive;
+    color: crimson;
+    margin: 10%;
+    background-color: cadetblue;
+    font-size: 15px;
+}
+
+.marginfive {
+    font-size: 20px;
+    margin: 5%;
+}
+.testClass {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    margin: 7.5%;
+    background-color: aliceblue;
+}
